@@ -1,0 +1,30 @@
+Sandbox_CN = {
+  Sandbox_BLTRandomZombies = "随机僵尸",
+
+  Sandbox_BLTRandomZombies_Crawler = "爬行者% (速度)",
+  Sandbox_BLTRandomZombies_Crawler_tooltip = "游戏中爬行者出现的比例. 爬行者,蹒跚者,漫步者,冲刺者的比例之和应为 100.",
+
+  Sandbox_BLTRandomZombies_Shambler = "蹒跚者% (速度)",
+  Sandbox_BLTRandomZombies_Shambler_tooltip = "游戏中蹒跚者出现的比例. 爬行者,蹒跚者,漫步者,冲刺者的比例之和应为 100.",
+
+  Sandbox_BLTRandomZombies_FastShambler = "漫步者% (速度)",
+  Sandbox_BLTRandomZombies_FastShambler_tooltip = "游戏中漫步者出现的比例. 爬行者,蹒跚者,漫步者,冲刺者的比例之和应为 100.",
+
+  Sandbox_BLTRandomZombies_Sprinter = "冲刺者% (速度)",
+  Sandbox_BLTRandomZombies_Sprinter_tooltip = "游戏中冲刺者出现的比例. 爬行者,蹒跚者,漫步者,冲刺者的比例之和应为 100.",
+
+  Sandbox_BLTRandomZombies_Fragile = "脆弱% (状态)",
+  Sandbox_BLTRandomZombies_Fragile_tooltip = "游戏中脆弱僵尸出现的比例. 脆弱,普通,强壮僵尸的比例之和应为 100.",
+
+  Sandbox_BLTRandomZombies_NormalTough = "普通% (状态)",
+  Sandbox_BLTRandomZombies_NormalTough_tooltip = "游戏中普通僵尸出现的比例. 脆弱,普通,强壮僵尸的比例之和应为 100.",
+
+  Sandbox_BLTRandomZombies_Tough = "强壮% (状态)",
+  Sandbox_BLTRandomZombies_Tough_tooltip = "游戏中强壮僵尸出现的比例. 脆弱,普通,强壮僵尸的比例之和应为 100.",
+
+  Sandbox_BLTRandomZombies_Smart = "聪明% (脑力)",
+  Sandbox_BLTRandomZombies_Smart_tooltip = "游戏中聪明僵尸出现的比例. 聪明的僵尸具有包括开门在内的更多行为能力",
+
+  Sandbox_BLTRandomZombies_Frequency = "[高级] 频率",
+  Sandbox_BLTRandomZombies_Frequency_tooltip = "[高级选项] 以毫秒为单位的更新周期. 数值越高则CPU使用率越低, 数值越低则错误发生率越低",
+}
